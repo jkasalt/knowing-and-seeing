@@ -130,14 +130,14 @@ aggregates, which are the Noble Truth of Suffering and the Noble Truth of the
 Origin of Suffering. And in the ‘_Mahā·Sati·Paṭṭhāna_’ sutta (‘The Great
 Mindfulness-Foundation Sutta’) He explains:[^17]
 
-And how, bhikkhus, in short, are the five clinging-aggregates
-(_pañc·upādāna·kkhandhā_) suffering? They are as follows:
-
-1. the materiality clinging-aggregate (_rūp·upādāna·kkhandho_);
-1. the feeling clinging-aggregate (_vedan·upādāna·kkhandho_);
-1. the perception clinging-aggregate (_saññ·upādāna·kkhandho_);
-1. the mental formations clinging-aggregate (_saṅkhār·upādāna·kkhandho_);
-1. the consciousness clinging-aggregate (_viññāṇ·upādāna·kkhandho_).
+> And how, bhikkhus, in short, are the five clinging-aggregates
+> (_pañc·upādāna·kkhandhā_) suffering? They are as follows:
+>
+> 1. the materiality clinging-aggregate (_rūp·upādāna·kkhandho_);
+> 1. the feeling clinging-aggregate (_vedan·upādāna·kkhandho_);
+> 1. the perception clinging-aggregate (_saññ·upādāna·kkhandho_);
+> 1. the mental formations clinging-aggregate (_saṅkhār·upādāna·kkhandho_);
+> 1. the consciousness clinging-aggregate (_viññāṇ·upādāna·kkhandho_).
 
 And in, for example, the ‘Khandha’ sutta (‘The Aggregates Sutta’), He explains
 that the aggregates are aggregates of eleven categories:[^18]
