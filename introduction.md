@@ -34,3 +34,7 @@ Dispensation. He then explains:
 >    understood and penetrated. Craving for existence has been cut off; the
 >    tendency to existence has been destroyed; now there is no more renewed
 >    existence.
+
+[^10]: todo
+
+[^11]: todo
