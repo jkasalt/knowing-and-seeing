@@ -1,11 +1,5 @@
 # Introduction
 
-## In this chapter:
-
-- [The Buddha's dispensation](#the-buddhas-dispensation)
-- [What needs to be fully realized](#what-needs-to-be-fully-realized)
-- [The first and second noble truth](#the-first-and-second-noble-truth)
-
 ## The Buddha's dispensation.
 
 > On one occasion, the Blessed One was dwelling among Vajjians at Koṭigāma.
@@ -134,7 +128,41 @@ Sutta’):[^15]
 The realities of the world that The Buddha is here explaining are the five
 aggregates, which are the Noble Truth of Suffering and the Noble Truth of the
 Origin of Suffering. And in the ‘_Mahā·Sati·Paṭṭhāna_’ sutta (‘The Great
-Mindfulness-Foundation Sutta’) He explains:17
+Mindfulness-Foundation Sutta’) He explains:[^17]
+
+And how, bhikkhus, in short, are the five clinging-aggregates
+(_pañc·upādāna·kkhandhā_) suffering? They are as follows:
+
+1. the materiality clinging-aggregate (_rūp·upādāna·kkhandho_);
+1. the feeling clinging-aggregate (_vedan·upādāna·kkhandho_);
+1. the perception clinging-aggregate (_saññ·upādāna·kkhandho_);
+1. the mental formations clinging-aggregate (_saṅkhār·upādāna·kkhandho_);
+1. the consciousness clinging-aggregate (_viññāṇ·upādāna·kkhandho_).
+
+And in, for example, the ‘Khandha’ sutta (‘The Aggregates Sutta’), He explains
+that the aggregates are aggregates of eleven categories:[^18]
+
+> And what, bhikkhus, are the five clinging-aggregates? Whatever kind of
+> material- ity (rūpa) there is, whether
+>
+> - \[1-3\] past, future, or present (atīt·ānāgata·paccuppannaṁ);
+> - \[4-5\] internal or external (ajjhattaṁ vā bahiddhā vā);
+> - \[6-7\] gross or subtle (oḷārikaṁ vā sukhumaṁ vā);
+> - \[8-9\] inferior or superior (hīnaṁ vā paṇītaṁ vā);
+> - \[10-11\] far or near (yaṁ dūre santike vā)
+>
+> that is tainted (sāsava), that can be clung to (upādāniya), it is called the
+> materiality clinging-aggregate. Whatever kind of feeling.… perception.… mental
+> formations.… Whatever kind of consciousness there is, whether past, future, or
+> present; internal or external; gross or subtle; inferior or superior; far or
+> near that is tainted, that can be clung to, it is called the consciousness
+> clinging-aggregate. These, bhikkhus, are called the five clinging-aggregates.
+
+These five clinging-aggregates are the First Noble Truth, the Noble Truth of
+Suffering, and, as The Buddha explains, they comprise each an aggregate of
+eleven categories. This means that to know and see the five aggregates is to
+know and see these eleven categories of materiality, feelings, perceptions,
+formations, and consciousness.
 
 [^10]: todo
 
@@ -147,3 +175,9 @@ Mindfulness-Foundation Sutta’) He explains:17
 [^14]: todo
 
 [^15]: todo
+
+[^16]: todo
+
+[^17]: todo
+
+[^18]: todo
